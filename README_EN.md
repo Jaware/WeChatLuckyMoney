@@ -24,6 +24,10 @@ Available in English and Chinese. Please goto the [**Release**](https://github.c
 
   Tha package is as light as 1Mb. With code open sourced, active community discussions, tens of thousands of downloads, it's worth your trust.
 
+### Historical update
+
+2018.12.14 fix can't open the red envelope automatically.
+
 ### How to use
 
 1. Open the app, turn on the service.
